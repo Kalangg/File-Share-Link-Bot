@@ -3,7 +3,9 @@
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
-  </a>## Features
+  </a>
+
+### Features
 - Fully customisable.
 - Customisable welcome & Forcesub messages.
 - More than one Posts in One Link.
