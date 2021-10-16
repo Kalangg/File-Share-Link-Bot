@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Kalangg/File-Share-Link-Bot",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "logo": "https://telegra.ph/file/f18639015ec4d317a69dc.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -35,14 +35,14 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hallo {first}\n\nSelamat Datang di BOT Konten saya... "
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "Hello {first}\n\n<b>Kamu harus join ke Chanel untuk melanjutkan\n\nKindly Silahkan join Channel</b>"
     },
     "ADMINS": {
-      "description": "A space separated list of user_ids of Admins, they can only create links",
+      "description": "Creats Links",
       "value": "",
       "required": false
     }
